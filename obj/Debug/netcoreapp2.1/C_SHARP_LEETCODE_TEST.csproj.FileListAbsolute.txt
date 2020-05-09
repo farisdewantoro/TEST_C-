@@ -1,0 +1,14 @@
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\obj\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.csprojAssemblyReference.cache
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\obj\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.csproj.CoreCompileInputs.cache
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\obj\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.AssemblyInfoInputs.cache
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\obj\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.AssemblyInfo.cs
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.deps.json
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.runtimeconfig.json
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.runtimeconfig.dev.json
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.dll
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\bin\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.pdb
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\obj\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.dll
+D:\LEET_CODE\C_SHARP_LEETCODE_TEST\obj\Debug\netcoreapp2.1\C_SHARP_LEETCODE_TEST.pdb
